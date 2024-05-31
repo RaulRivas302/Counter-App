@@ -1,0 +1,4 @@
+com\example\demo\model\UserRegistration.class
+com\example\demo\controller\RegistrationController.class
+com\example\demo\repository\UserRepo.class
+com\example\demo\Main.class
